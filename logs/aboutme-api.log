@@ -1,0 +1,38 @@
+2025-10-18 20:38:08.574 [restartedMain] INFO  d.s.aboutme.AboutmeApiApplication - Starting AboutmeApiApplication using Java 21.0.8 with PID 10808 (C:\slethdev\aboutme\target\classes started by Dannyl in C:\slethdev\aboutme)
+2025-10-18 20:38:08.576 [restartedMain] DEBUG d.s.aboutme.AboutmeApiApplication - Running with Spring Boot v3.5.6, Spring v6.2.11
+2025-10-18 20:38:08.577 [restartedMain] INFO  d.s.aboutme.AboutmeApiApplication - No active profile set, falling back to 1 default profile: "default"
+2025-10-18 20:38:08.643 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-10-18 20:38:08.643 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-10-18 20:38:10.064 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-10-18 20:38:10.079 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-10-18 20:38:10.080 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.46]
+2025-10-18 20:38:10.155 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-10-18 20:38:10.156 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1511 ms
+2025-10-18 20:38:10.934 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-10-18 20:38:11.038 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-10-18 20:38:11.048 [restartedMain] INFO  d.s.aboutme.AboutmeApiApplication - Started AboutmeApiApplication in 3.253 seconds (process running for 4.161)
+2025-10-18 20:38:18.235 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-10-18 20:38:18.235 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-10-18 20:38:18.236 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-10-18 20:38:21.175 [http-nio-8080-exec-1] INFO  o.s.api.AbstractOpenApiResource - Init duration for springdoc-openapi is: 143 ms
+2025-10-18 20:55:14.667 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-18 20:55:14.685 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-10-18 21:09:00.683 [restartedMain] INFO  d.s.aboutme.AboutmeApiApplication - Starting AboutmeApiApplication using Java 21.0.8 with PID 15680 (C:\slethdev\aboutme\target\classes started by Dannyl in C:\slethdev\aboutme)
+2025-10-18 21:09:00.685 [restartedMain] DEBUG d.s.aboutme.AboutmeApiApplication - Running with Spring Boot v3.5.4, Spring v6.2.9
+2025-10-18 21:09:00.686 [restartedMain] INFO  d.s.aboutme.AboutmeApiApplication - No active profile set, falling back to 1 default profile: "default"
+2025-10-18 21:09:00.751 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-10-18 21:09:00.753 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-10-18 21:09:02.349 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-10-18 21:09:02.369 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-10-18 21:09:02.369 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.43]
+2025-10-18 21:09:02.450 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-10-18 21:09:02.451 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1697 ms
+2025-10-18 21:09:03.671 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2025-10-18 21:09:03.715 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-10-18 21:09:03.725 [restartedMain] INFO  d.s.aboutme.AboutmeApiApplication - Started AboutmeApiApplication in 3.753 seconds (process running for 4.656)
+2025-10-18 21:09:17.459 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-10-18 21:09:17.459 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-10-18 21:09:17.460 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-10-18 21:09:20.028 [http-nio-8080-exec-4] INFO  o.s.api.AbstractOpenApiResource - Init duration for springdoc-openapi is: 261 ms
+2025-10-18 21:11:54.603 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-18 21:11:54.621 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
