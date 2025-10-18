@@ -59,13 +59,14 @@ public class ProfileService {
                     .block();
 
             if (response == null || response.getFact() == null) {
-                throw new RuntimeException("Invalid response from cat fact API");
+                log.warn("Invalid response from cat fact API");
+                return "Cat fact service temporarily unavailable";
             }
 
             return response.getFact();
         } catch (Exception e) {
             log.error("Failed to fetch cat fact: {}", e.getMessage());
-            throw new RuntimeException("Cat fact service unavailable", e);
+            return "Cat fact service temporarily unavailable";
         }
     }
 }
